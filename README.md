@@ -21,7 +21,7 @@ A simple RESTful inventory management service built using FastAPI.
 ## Run Locally
 
 ```bash
-git clone <https://github.com/FarhazR/inventory-management-api>
+git clone https://github.com/FarhazR/inventory-management-api>
 cd inventory-api
 python -m venv venv
 source venv/bin/activate
